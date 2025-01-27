@@ -41,8 +41,7 @@ import gasImg from '~/assets/images/gas.jpg';
 export const heroHome: HeroProps = {
   title: (
     <>
-      Free template for <span className="hidden md:inline">starts a website using</span> <span>Next.js</span> +{' '}
-      <span className="sm:whitespace-nowrap">Tailwind CSS</span>
+     Engineers Recruiting Engineers: Bridging the Gap 
     </>
   ),
   subtitle: (
